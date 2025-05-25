@@ -1,0 +1,17 @@
+ESP32 Chip model = ESP32-S3 Rev 0
+This chip has 2 cores
+Chip ID: 15334896
+
+ESP-ROM:
+esp32s3-20210327 
+MOSI: 11 
+MISO: 13 
+SCK: 12 
+SS: 10
+
+#define TFT_MISO 19
+#define TFT_MOSI 23
+#define TFT_SCLK 18
+#define TFT_CS    5
+#define TFT_DC    2
+#define TFT_RST   4
